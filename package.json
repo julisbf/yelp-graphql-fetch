@@ -1,5 +1,5 @@
 {
-  "name": "yelp-graphql",
+  "name": "yelp-graphql-fetch",
   "version": "1.0.0",
   "description": "Testing Yelp GraphQL Api",
   "main": "index.js",
@@ -8,19 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/julisbf/yelp-schema-stitching.git"
+    "url": "https://github.com/julisbf/yelp-graphql-fetch.git"
   },
   "keywords": [
     "graphql",
-    "yelp-api",
-    "schema-stitching"
+    "yelp-api"
   ],
   "author": "Juliana BF",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/julisbf/yelp-schema-stitching/issues"
+    "url": "https://github.com/julisbf/yelp-graphql-fetch/issues"
   },
-  "homepage": "https://github.com/julisbf/yelp-schema-stitching#readme",
+  "homepage": "https://github.com/julisbf/yelp-graphql-fetch#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.0.0",
