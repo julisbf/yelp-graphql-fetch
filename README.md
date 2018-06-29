@@ -20,7 +20,7 @@ open .env
 ```
 
 Add your Yelp Api Token \
-`ACCESS_TOKEN = __YOUR_YELP_API_TOKEN__`
+`ACCESS_TOKEN = "__YOUR_YELP_API_TOKEN__"`
 
 > **Note:** You’ll need to create a client, join the beta program, and grab the API key from your [client settings](https://www.yelp.com/developers/v3/manage_app)
 
